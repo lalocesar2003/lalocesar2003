@@ -59,7 +59,7 @@ Home server built with Ubuntu Server, Docker, and n8n for hosting applications a
 ## 📫 Contact Me
 
 * 🌐 Portfolio: [cesarchuquillanqui.site](https://www.cesarchuquillanqui.site/)
-* 💼 LinkedIn: [linkedin-cesarcruz]([https://www.cesarchuquillanqui.site/](https://www.linkedin.com/in/cesar-cruz-1a5056264/))
+* 💼 LinkedIn: [linkedin-cesarcruz](https://www.linkedin.com/in/cesar-cruz-1a5056264/)
 * 📧 Email: `ceed1000@gmail.com`
 
 ---
